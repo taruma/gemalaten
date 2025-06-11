@@ -74,7 +74,7 @@ Untuk panduan yang lebih lengkap, silakan baca **[Panduan Navigasi Forum Gema La
 
 ---
 
-##📜 Aturan Main Komunitas
+## 📜 Aturan Main Komunitas
 
 Kami berkomitmen untuk menjaga Gema Laten sebagai ruang yang aman dan inklusif. Secara singkat:
 
